@@ -50,12 +50,11 @@ Each week we scour the fringes of the world wide web for new ways to streamline,
 
 - [Mocha ](https://itrau.co/mocha-open-features)
 - [PixiJS](https://itrau.co/pixijs)
-
-> The list is extensive, with Javascript based projects being one of the largest, it even lists the contribution 'diffculty' level for every listed resource with labels from 'easy' to 'up for grabs...' 
  
-<details closed><summary> </summary>
+<details closed><summary> Visual Preview JS List</summary>
 <p>
-<a href="https://itrau.co/cskb-beginner-projects"><img src="https://github.com/CodeSchoolKb/dev-top-five-week-0420/blob/readme-input/assets/gifs/awesome-for-beginners.gif"></a>
+
+<a href="<INSERT FINAL IMAGE HYPERLINK>"></a>
 </p>
 </details>
 
