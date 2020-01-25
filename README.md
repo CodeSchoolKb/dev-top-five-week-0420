@@ -40,8 +40,19 @@ Each week we scour the fringes of the world wide web for new ways to streamline,
 
 <!-- FIND # 1 -->
 ### Awesome for Beginners
+
 <details open><summary>A list of awesome beginners-friendly projects</summary>
 <p>
+
+- [awesome-for-beginners ](https://itrau.co/cskb-beginner-projects)is a list of projects that are perfect for recent coding bootcamp grads looking to spread their wings and start contributing to real-world projects with a scope of impact that extends far beyond the limits of one-week deadline portfolio projects. 
+
+> There's a deeper side to GitHub that can only be experienced by taking a dip into the online communities that support longterm projects like...
+- [Mocha]
+<details closed><summary> Preview</summary>
+<p>
+<a href="http://CodeSchoolKb.com"><img src="https://github.com/iTrauco/CodeSchoolKb/blob/master/assets/branding/logo_transparent_background.png" width="250" title="CodeSchoolKb" alt="CodeSchoolKb"></a>
+</p>
+</details>
 
 </p>
 </details>
@@ -77,6 +88,10 @@ Each week we scour the fringes of the world wide web for new ways to streamline,
 
 </p>
 </details>
+
+
+[1]: https://itrau.co/cskb-beginner-projects
+[2]: 
 
 
 
