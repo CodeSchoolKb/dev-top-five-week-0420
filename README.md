@@ -50,14 +50,13 @@ Each week we scour the fringes of the world wide web for new ways to streamline,
 
 - [Mocha ](https://itrau.co/mocha-open-features)
 - [PixiJS](https://itrau.co/pixijs)
- 
-<details closed><summary> Visual Preview JS List</summary>
+<details><summary>Visual Sample of JS Resources</summary>
 <p>
 
-<a href="<INSERT FINAL IMAGE HYPERLINK>"></a>
+<a href="https://itrau.co/cskb-beginner-projects"><img src="https://github.com/CodeSchoolKb/dev-top-five-week-0420/blob/master/assets/static/awesome-for-beginners.png" title="awesome-for-beginners-preview" alt="awesome-for-beginners"></a>
+
 </p>
 </details>
-
 </p>
 </details>
 
