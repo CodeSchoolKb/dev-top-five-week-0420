@@ -46,11 +46,16 @@ Each week we scour the fringes of the world wide web for new ways to streamline,
 
 - [awesome-for-beginners ](https://itrau.co/cskb-beginner-projects)is a list of projects that are perfect for recent coding bootcamp grads looking to spread their wings and start contributing to real-world projects with a scope of impact that extends far beyond the limits of one-week deadline portfolio projects. 
 
-> There's a deeper side to GitHub that can only be experienced by taking a dip into the online communities that support longterm projects like...
-- [Mocha]
-<details closed><summary> Preview</summary>
+> There's a deeper side to GitHub that can only be experienced by taking a dip into the online communities responsible for creating, maintaining, and documenting some of your favorite dev tools like... 
+
+- [Mocha ](https://itrau.co/mocha-open-features)
+- [PixiJS](https://itrau.co/pixijs)
+
+> The list is extensive, with Javascript based projects being one of the largest, it even lists the contribution 'diffculty' level for every listed resource with labels from 'easy' to 'up for grabs...' 
+ 
+<details closed><summary> </summary>
 <p>
-<a href="http://CodeSchoolKb.com"><img src="https://github.com/iTrauco/CodeSchoolKb/blob/master/assets/branding/logo_transparent_background.png" width="250" title="CodeSchoolKb" alt="CodeSchoolKb"></a>
+<a href="https://itrau.co/cskb-beginner-projects"><img src="https://github.com/CodeSchoolKb/dev-top-five-week-0420/blob/readme-input/assets/gifs/awesome-for-beginners.gif"></a>
 </p>
 </details>
 
