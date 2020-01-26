@@ -35,6 +35,8 @@ Each week we scour the fringes of the world wide web for new ways to streamline,
 * [GitHub Traffic Viewer Website](#github-traffic-viewer-website)
 * [Check It Out](#check-it-out)
 * [GitHub Console Keyboard Shortcuts](#github-console-keyboard-shortcuts)
+* [HITS!](#hits)
+* [FAQ](#faq)
 </p>
 </details>
 
@@ -53,7 +55,7 @@ Each week we scour the fringes of the world wide web for new ways to streamline,
 
 > If you are not a programmer, but would like to contribute, check out the Awesome for non-programmers list.
 
-<details open><summary>We ❤️ the simple and descriptive 'labels'...</summary>
+<details><summary>We ❤️ the simple and descriptive 'labels'...</summary>
 <br> to the right of every project on this list, they remove the 'barrier' of guesswork; it essentially lets you gauge the 'difficulty level' from 'easy-peasy walk in the park' to 'hard as hell.'
 </br>
 
@@ -63,23 +65,33 @@ Each week we scour the fringes of the world wide web for new ways to streamline,
 <br>_(label: starter bug)_</br>
 <br>_(label: Up-For-Grabs)_</br>
 
-
-<br> This list makes it easy to browse and select the perfect project to make your first open source contribution to without wasting countless hours on research and getting frustrated with a community that isn't very 'first-timer' friendly. </br>
-</p>
-</details>
-
+<br>
+<img src="https://github.com/CodeSchoolKb/dev-top-five-week-0420/blob/master/awesome-labels.png" title="example-of-labels" alt="example-of-labels"></a>
+</br>
 
 </p>
 </details>
 
+<details><summary>Everything about this is awesome because...</summary>
+<p>
 
+<br>... it makes the experience of selecting which open source project to contribute to painless, there's no need to waste countless hours on researching the best community project to support and end up selecting one that is not so 'first-timer' friendly. </br>
 
+<br>There's no need to risk burnout or giving up from frustration when this awesome resource exists. </br>
+
+</p>
+</details>
+
+</p>
+</details>
 
 
 <!-- FIND # 2 -->
 ## GitHub Traffic Viewer Website
 <details open><summary>A website which shows a list of traffic graphs of your own GitHub repositories</summary>
 <p>
+
+- [GitHub Traffic Viewer Website](https://itrau.co/cskb-github-traffic-viewer-website) 
 
 > Forked repositories are currently filtered out. If you need them, open an issue and I will provide an option to show them as well.
 
@@ -97,7 +109,7 @@ Each week we scour the fringes of the world wide web for new ways to streamline,
 <details><summary>This is a great tool for coding bootcamp student developers because...</summary>
 <p>
 
-<br> I wasted countless hours manually looking up the 'traffic' stats of my repos and wish I had known about this project. 
+<br>... I wasted countless hours manually looking up the 'traffic' stats of my repos when I was in a coding bootcamp, I wish I had known about this project. 
 </br>
 </p>
 </details>
@@ -140,23 +152,27 @@ It will take some time, but learning Python3 in-depth is now a high-priority ski
 <details open><summary>A command line interface for Git Checkout. See branches available for checkout.</summary>
 <p>
 
+- [Check it out, ](https://itrau.co/cskb-check-it-out) before you checkout.
+
+> Check It Out lets you interactively see and choose what branch you want to check out without the hassle of trying to type out a long or confusing branch name. Checking out branches just got even simpler!
+
+<br>
+<a href=""><img src="https://github.com/jwu910/check-it-out/blob/master/assets/images/checkit-intro.gif" title="checkit-intro" alt="checkit-intro"></a>
+</br>
+
 
 <!-- START OF DROPDOWNs -->
-<details><summary></summary>
+<details><summary>Oh Sh*t, Git!?!</summary>
 <p>
 
+- [The BEST Git Documentation ](https://itrau.co/ohshitgit) for your first coding bootcamp group project 'git' workflow headaches and conflicting merge frustrations... 
 </p>
 </details>
 
-<details><summary></summary>
+<details><summary>Git can be hard...</summary>
 <p>
 
-</p>
-</details>
-
-<details><summary></summary>
-<p>
-
+<br>... and this badass tool will have you 'killing it' like the startup of your dreams!</br>
 </p>
 </details>
 <!-- END OF DROPDOWNS-->
@@ -168,6 +184,7 @@ It will take some time, but learning Python3 in-depth is now a high-priority ski
 ## GitHub Console Keyboard Shortcuts
 <details open><summary>Nearly every page on GitHub has a keyboard shortcut to perform actions faster.</summary>
 <p>
+
 
 <!-- START OF DROPDOWNs -->
 <details><summary></summary>
@@ -193,7 +210,7 @@ It will take some time, but learning Python3 in-depth is now a high-priority ski
 </details>
 
 <!-- FIND # 5 -->
-## HITS!
+## HITS 
 <details open><summary>The easy way to know how many people are viewing your GitHub projects!</summary>
 <p>
 
