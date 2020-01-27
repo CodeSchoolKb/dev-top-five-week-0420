@@ -45,13 +45,13 @@
 
 ## CSKb Resources
 
-- [A Google Sheets Doc w/](https://itrau.co/CSKbCheatsheet)
+- [A Google Sheets Doc w/](https://itrau.co/CSKbCheatsheet)**Please Note: This is a work in progress**
 - Weekly Repo Content Summary
 - Interview/Interview Progress Tracker
 
-- [CSKb Slack Community](https://itrau.co/CSKbSlack)
+- [CSKb Slack Community](https://itrau.co/CSKbSlack)**Please Note: This is not yet setup**
 
-- [CSKb Tip/Idea Submission Form ](https://itrau.co/CSKbIdeaForm)
+- [CSKb Tip/Idea Submission Form ](https://itrau.co/CSKbIdeaForm)**Please Note: This is not yet setup**
 
 
 
